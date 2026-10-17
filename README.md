@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./obito-banner.png" width="100%" alt="HEY! I am Akmal Sadad — Obito Uchiha banner"/>
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com%2Fakmalsadad11%2Fakmalsadad11%2Fmain%2Fobito-banner.png&trim=10&fit=cover&w=1800&h=377" width="100%" alt="HEY! I am Akmal Sadad — Obito Uchiha banner"/>
 
 **INFORMATICS ENGINEERING STUDENT**  
 `CODE` · `LEARN` · `BUILD` · `IMPROVE` · `REPEAT`
