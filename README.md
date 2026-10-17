@@ -19,10 +19,14 @@
 <tr>
 <td width="34%" align="center">
 
-<img src="./obito-banner.png" width="100%" alt="Obito Uchiha purple moon artwork"/>
+<sub>うちはオビト</sub>
+
+**OBITO UCHIHA**
 
 <sub><i>“Reality is just another illusion.”</i></sub><br/>
 <sub>— Obito Uchiha</sub>
+
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
 
 </td>
 <td width="66%">
