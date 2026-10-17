@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./obito-banner.png" width="100%" alt="HEY! I am Akmal Sadad - Obito Uchiha banner"/>
+<img src="https://raw.githubusercontent.com/akmalsadad11/akmalsadad11/main/obito-banner.png" width="100%" alt="HEY! I am Akmal Sadad - Obito Uchiha banner"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ Mindset    : Debug. Learn. Repeat.
   <img src="https://raw.githubusercontent.com/akmalsadad11/akmalsadad11/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </div>
 
-> If the snake animation does not appear yet, configure the GitHub Actions workflow first or remove this section until it is set up.
+> The contribution snake will appear after the GitHub Actions workflow is configured.
 
 ## `05 // FEATURED PROJECTS`
 
